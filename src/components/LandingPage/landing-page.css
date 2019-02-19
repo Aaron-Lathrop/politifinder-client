@@ -1,0 +1,7 @@
+.landingpage {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    min-height: 90vh;
+    background-color: #ddd;
+} 
